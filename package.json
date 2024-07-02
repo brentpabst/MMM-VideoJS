@@ -1,0 +1,26 @@
+{
+  "name": "mmm-videojs",
+  "version": "1.0.0",
+  "description": "Magic Mirror module to display a VideoJS window and feed",
+  "main": "MMM-VideoJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentpabst/MMM-VideoJS.git"
+  },
+  "author": "Brent Pabst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brentpabst/MMM-VideoJS/issues"
+  },
+  "homepage": "https://github.com/brentpabst/MMM-VideoJS#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0",
+    "prettier": "3.3.2",
+    "video.js": "^8.12.0"
+  }
+}
