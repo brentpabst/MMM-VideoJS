@@ -46,6 +46,7 @@ Module.register("MMM-VideoJS", {
             autoplay: true,
             muted: true,
             preload: 'auto',
+            loop: true,
             fluid: true,
           }, () => {
             videojs.log('player is ready');
